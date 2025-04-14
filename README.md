@@ -51,14 +51,23 @@ src/
 - Node.js (v20 or above)
 - npm
 
-### Steps
+### Installation steps
 
-```bash
-git clone https://github.com/kiborgok/dashboard.git
+_Below is a walkthrough of installing and running the project locally:_
 
-
-cd dashboard/
-
-npm install
-
-npm run dev
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kiborgok/dashboard.git
+   ```
+2. Navigate into the directory
+    ```sh
+    cd dashboard
+    ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Run application
+    ```sh
+   npm run start
+   ```
